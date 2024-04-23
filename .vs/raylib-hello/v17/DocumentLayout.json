@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nobodhi\\Documents\\C\u002B\u002B\\raylib-hello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE788E2-1815-4A89-9D24-68637BC260BA}|raylib-hello.vcxproj|C:\\Users\\nobodhi\\Documents\\C\u002B\u002B\\raylib-hello\\raylib-hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AE788E2-1815-4A89-9D24-68637BC260BA}|raylib-hello.vcxproj|solutionrelative:raylib-hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "raylib-hello.cpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\C\u002B\u002B\\raylib-hello\\raylib-hello.cpp",
+              "RelativeDocumentMoniker": "raylib-hello.cpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\C\u002B\u002B\\raylib-hello\\raylib-hello.cpp",
+              "RelativeToolTip": "raylib-hello.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T04:07:28.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
